@@ -1,7 +1,6 @@
 vendor/
 bootstrap/
 config/
-public/
 storage/
 tests/
 database/

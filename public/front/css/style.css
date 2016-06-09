@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	padding: 0;
+	font: normal 14px Arial,Helvetica,sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #1F8CE6;
+	cursor: pointer;
+}
+a:hover, a:focus {
+	text-decoration: none;
+	color: #75C0FF;
+}
+a:active, a:focus {
+    outline: none;
+}
+
+h2 {
+	margin-top: 0;
+	margin-bottom: 15px;
+}
+
+
+.login-page {
+	max-width: 500px;
+	margin: 0 auto
+}
+
+.help-block.error {
+	color: red;
+	margin-top: 2px;
+	margin-bottom: 0;
+}
+
+.div-username .col-xs-4 {
+	padding-left: 0;
+	padding-right: 10px;
+}
+.div-username .col-xs-4:last-child {
+	padding-left: 0;
+	padding-right: 0;
+}

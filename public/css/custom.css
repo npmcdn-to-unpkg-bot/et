@@ -1,0 +1,14 @@
+/*.dataTables_length select{
+	width: 100%;
+	padding: 7px;
+}
+
+.dataTables_filter input{
+	float: right;
+	width: 100%;
+	padding: 7px;
+}*/
+
+option {
+	padding: 5px;
+}
